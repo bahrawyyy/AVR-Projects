@@ -22,3 +22,14 @@ Ensure that your wireless terminal (e.g., a computer or smartphone) is connected
 Open a terminal program (e.g., PuTTY, Arduino Serial Monitor, or a custom application) on your wireless terminal.  
 Connect to the ESP8266's IP address and port (specified in Arduino sketch).  
 You should now see the measured values being transmitted wirelessly to your terminal in real-time.
+
+## Simulation
+https://github.com/bahrawyyy/AVR-Projects/assets/71684437/e979b79f-c6c9-4b5a-84af-019980978a5e
+
+## Hardware Video
+
+
+https://github.com/bahrawyyy/AVR-Projects/assets/71684437/0492422d-f587-4554-a1ca-75af27a0a55b
+
+
+
