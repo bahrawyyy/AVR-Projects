@@ -16,3 +16,9 @@ MotorDashboard provides a user-friendly interface for controlling motors. Here's
 - Real-time Feedback: The LCD display will provide real-time feedback on motor status, direction, and angle.
 - Interrupts and Timers: Utilize external interrupts and timers for advanced motor control, if needed.
 - Customization: Modify the code to adjust parameters like motor speed, step size, or interrupt triggers according to your project requirements.
+## Simulation
+
+
+
+https://github.com/bahrawyyy/AVR-Projects/assets/71684437/9f3f4530-43ff-4d97-b81f-febdc40ba847
+
