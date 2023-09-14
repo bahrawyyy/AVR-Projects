@@ -16,9 +16,22 @@ MotorDashboard provides a user-friendly interface for controlling motors. Here's
 - Real-time Feedback: The LCD display will provide real-time feedback on motor status, direction, and angle.
 - Interrupts and Timers: Utilize external interrupts and timers for advanced motor control, if needed.
 - Customization: Modify the code to adjust parameters like motor speed, step size, or interrupt triggers according to your project requirements.
+
+## Repository Contents
+This repository consists of two main components:
+
+- SPI Communication:
+
+Master: This part receives commands from the user and communicates them to the slave.
+Slave: Acts as an actuator to control motors based on the commands received from the master.
+- Motor Control:
+
+This part manages the actual control of DC motors, servos, and stepper motors using the hardware components (keypad, LCD display, timers, interrupts, etc.).
+
+
 ## Simulation
 
 
 
-https://github.com/bahrawyyy/AVR-Projects/assets/71684437/9f3f4530-43ff-4d97-b81f-febdc40ba847
+https://github.com/bahrawyyy/AVR-Projects/assets/71684437/81ccb558-cb7e-45b4-b391-1552aede9855
 
